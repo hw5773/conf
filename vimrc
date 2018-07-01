@@ -101,7 +101,7 @@ let g:solarized_termcolors=256
 let g:solarized_termtrans=1
 " put https://raw.github.com/altercation/vim-colors-solarized/master/colors/solarized.vim
 " in ~/.vim/colors/ and uncomment:
-colorscheme solarized
+"colorscheme solarized
 
 "set tags=/home/hwlee/Downloads/linux-3.2.89/tags
 "set tags=/home/hwlee/Downloads/linux-4.11.3/tags
